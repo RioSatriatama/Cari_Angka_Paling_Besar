@@ -1,0 +1,16 @@
+C:\VB PROJECTS\CariAngkaPalingBesar\bin\Debug\CariAngkaPalingBesar.exe
+C:\VB PROJECTS\CariAngkaPalingBesar\bin\Debug\CariAngkaPalingBesar.pdb
+C:\VB PROJECTS\CariAngkaPalingBesar\bin\Debug\CariAngkaPalingBesar.xml
+C:\VB PROJECTS\CariAngkaPalingBesar\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\VB PROJECTS\CariAngkaPalingBesar\obj\x86\Debug\CariAngkaPalingBesar.vbproj.GenerateResource.Cache
+C:\VB PROJECTS\CariAngkaPalingBesar\obj\x86\Debug\CariAngkaPalingBesar.exe
+C:\VB PROJECTS\CariAngkaPalingBesar\obj\x86\Debug\CariAngkaPalingBesar.xml
+C:\VB PROJECTS\CariAngkaPalingBesar\obj\x86\Debug\CariAngkaPalingBesar.pdb
+D:\VB net 2010\VB net 2010\VB PROJECTS\CariAngkaPalingBesar\obj\x86\Debug\CariAngkaPalingBesar.exe
+D:\VB net 2010\VB net 2010\VB PROJECTS\CariAngkaPalingBesar\obj\x86\Debug\CariAngkaPalingBesar.xml
+D:\VB net 2010\VB net 2010\VB PROJECTS\CariAngkaPalingBesar\obj\x86\Debug\CariAngkaPalingBesar.pdb
+D:\VB net 2010\VB net 2010\VB PROJECTS\CariAngkaPalingBesar\bin\Debug\CariAngkaPalingBesar.exe
+D:\VB net 2010\VB net 2010\VB PROJECTS\CariAngkaPalingBesar\bin\Debug\CariAngkaPalingBesar.pdb
+D:\VB net 2010\VB net 2010\VB PROJECTS\CariAngkaPalingBesar\bin\Debug\CariAngkaPalingBesar.xml
+D:\VB net 2010\VB net 2010\VB PROJECTS\CariAngkaPalingBesar\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\VB net 2010\VB net 2010\VB PROJECTS\CariAngkaPalingBesar\obj\x86\Debug\CariAngkaPalingBesar.vbproj.GenerateResource.Cache
